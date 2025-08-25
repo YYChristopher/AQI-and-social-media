@@ -19,6 +19,6 @@ psych >= '2.4.6.26'
 Code of analysis in the Paper for linear fixed effects and nonlinear fixed effects.
 
 ### mediation
-Code of analysis in the Paper for causal links and mediation effects. For experimental data in analysis of mediation effects, are not publicly available for personal reasons. If you would like to receive the data, please contact the corresponding author with reasonable requests.
+Code of analysis in the Paper for causal and mediation effects. The experiment data are not publicly available for privacy issue. If you would like to access the data, please contact the corresponding author.
 
 
