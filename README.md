@@ -21,4 +21,7 @@ Code of analysis in the Paper for linear fixed effects and nonlinear fixed effec
 ### mediation
 Code of analysis in the Paper for causal and mediation effects. The experiment data are not publicly available for privacy issue. If you would like to access the data, please contact the corresponding author.
 
+### Data
+Data used are listed in 'panel.xlsx'.
+
 
